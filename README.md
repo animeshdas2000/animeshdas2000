@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React,NextJS**
 
-- 📫 How to reach me **me@animeshdas.xyz**
+- 📫 How to reach me **animesh.tech**
 
 - ⚡ Fun fact **my name defines me**
 
