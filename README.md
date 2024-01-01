@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [animesh.tech]([https://animesh.tech](https://anmsh.vercel.app/))
+- 👨‍💻 All of my projects are available [here](https://anmsh.vercel.app/)
 
 - 💬 Ask me about **React,NextJS**
 
