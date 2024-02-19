@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey! I am Animesh Das.</h1>
 
-- 🌱 I’m currently learning **GoLang, Kubernetes, PostgreSQL,Redis,**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
