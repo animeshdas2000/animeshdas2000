@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://anmsh.vercel.app/)
 
-- 💬 Ask me about **React,NextJS**
+- 💬 Ask me about **React,NextJS, NodeJS**
 
 - ⚡ Fun fact **my name defines me**
 
